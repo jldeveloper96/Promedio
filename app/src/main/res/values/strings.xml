@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Promedio</string>
+    <string name="grade_number">0</string>
+    <string name="status_string" />
+    <string name="first_course">First Course</string>
+    <string name="second_course">Second Course</string>
+    <string name="third_course">Third Course</string>
+    <string name="fourth_course">Fourth Course</string>
+    <string name="fifth_course">Fifth Course</string>
+    <string name="first_grade">First Grade</string>
+    <string name="second_grade">Second Grade</string>
+    <string name="third_grade">Third Grade</string>
+    <string name="fourth_grade">Fourth Grade</string>
+    <string name="fifth_grade">Fifth Grade</string>
+</resources>
